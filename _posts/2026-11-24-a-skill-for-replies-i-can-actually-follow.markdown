@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A skill for replies I can actually follow"
+title:  "Skills Marketplace: ADHD Communication Skill"
 date:   2026-11-24 13:00:00 -0600
 ---
 
